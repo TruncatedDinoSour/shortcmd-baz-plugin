@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+alias c='clear' \
+    clip='xclip -selection clipboard' \
+    e='exit' \
+    k='kill' \
+    ka='killall' \
+    mk='make' \
+    mkb='make -C ..' \
+    sb='stdbuf -o0 -e0 -i0' \
+    src='source ~/.bashrc' \
+    stx='startx' \
+    v='vim' \
+    vn='vim -Nu NONE' \
