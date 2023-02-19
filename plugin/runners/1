@@ -11,4 +11,4 @@ alias c='clear' \
     src='source ~/.bashrc' \
     stx='startx' \
     v='vim' \
-    vn='vim -Nu NONE' \
+    vn='vim -Nu NONE'
