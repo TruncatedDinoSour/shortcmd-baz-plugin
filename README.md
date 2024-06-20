@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/shortcmd-baz-plugin>
 # Baz plugin: shortcmd-baz-plugin
 
 > Baz plugin for making commands short
